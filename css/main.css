@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.Services{
+text-align: center;
+
+padding: 30px 0 ;
+
+}
+
+.Service{
+
+float: left;
+width: calc( (100% - 15px) /3);
+padding: 50px;
+
+margin-right: 5px;
+}
+h2{
+margin-bottom: 20px;
+
+}
+h1{
+
+    margin-bottom: 10px;
+    
+}
+p{
+    color: rgb(109, 104, 109);
+}
+.clearfix{
+    clear: both;
+}
+.last-service{
+    margin-right: 0;
+}
